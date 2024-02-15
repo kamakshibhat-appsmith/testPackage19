@@ -2,7 +2,7 @@
   "moduleUUID": "65cdf18c18535050cf1c8126",
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "name": "QueryModule1_1",
     "contextType": "PAGE",
     "pageId": "Page1",
@@ -14,5 +14,5 @@
   },
   "id": "Page1_QueryModule1_1",
   "deleted": false,
-  "gitSyncId": "65cdf2e2bbd5512480ccb793_65cdf2f5bbd5512480ccb7a6"
+  "gitSyncId": "65cdf340bbd5512480ccb7b4_65cdf49dbbd5512480ccb84f"
 }
